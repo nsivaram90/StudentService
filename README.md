@@ -27,5 +27,3 @@ mvn clean verify -P integration-test
 mvn clean install
 ```   
 
-Testing the repo
-testing2
